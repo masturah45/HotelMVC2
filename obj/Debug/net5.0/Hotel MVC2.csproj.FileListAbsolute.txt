@@ -1,0 +1,67 @@
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\appsettings.json
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Hotel MVC2.exe
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Hotel MVC2.deps.json
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Hotel MVC2.runtimeconfig.json
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Hotel MVC2.runtimeconfig.dev.json
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Hotel MVC2.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\ref\Hotel MVC2.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Hotel MVC2.pdb
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Hotel MVC2.Views.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Hotel MVC2.Views.pdb
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.AssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.RazorAssemblyInfo.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.RazorAssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\staticwebassets\Hotel MVC2.StaticWebAssets.Manifest.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\staticwebassets\Hotel MVC2.StaticWebAssets.xml
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\scopedcss\bundle\Hotel MVC2.styles.css
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.TagHelpers.input.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.TagHelpers.output.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.RazorCoreGenerate.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.RazorTargetAssemblyInfo.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.RazorTargetAssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.Views.pdb
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.csproj.CopyComplete
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\ref\Hotel MVC2.dll
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.pdb
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Hotel MVC2.genruntimeconfig.cache
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Admin\Admin.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Admin\CreateAdmin.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Admin\IndexPage.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Admin\ManageCustomer.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Hotel MVC2\obj\Debug\net5.0\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
